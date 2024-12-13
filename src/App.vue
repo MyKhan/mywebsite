@@ -1,5 +1,4 @@
 <template>
-  <img alt="Vue logo" src="./assets/Github_DP.png" />
   <LandingComponent />
 </template>
 
@@ -22,11 +21,5 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-}
-
-img {
-  max-width: 400px;
-  max-height: 400px;
-  border-radius: 50%;
 }
 </style>

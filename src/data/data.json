@@ -1,0 +1,28 @@
+{
+    "stuff": [
+        {
+            "id": 1,
+            "quote": "Who da best? I'm Da best!",
+            "author": "Creepy Nuts",
+            "youtube": "https://youtu.be/H6FUBWGSOIc?t=75"
+        },
+        {
+            "id": 2,
+            "quote": "Who da best? I'm Da best!",
+            "author": "Creepy Nuts",
+            "youtube": "https://youtu.be/H6FUBWGSOIc?t=75"
+        },
+        {
+            "id": 3,
+            "quote": "I have an idea and I want to know what the average man thinks about it. When we find out what he thinks, we'll change his thinking.",
+            "author": "Emapea",
+            "youtube": "https://youtu.be/pRU_y2FkW1I"
+        },
+        {
+            "id": 4,
+            "quote": "I have an idea and I want to know what the average man thinks about it. When we find out what he thinks, we'll change his thinking.",
+            "author": "Emapea",
+            "youtube": "https://youtu.be/pRU_y2FkW1I"
+        }
+    ]
+}
